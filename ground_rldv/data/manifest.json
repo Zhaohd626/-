@@ -1,0 +1,41 @@
+{
+  "description": "Two complete RLDV text exports for a small public demonstration.",
+  "encoding": "gb18030",
+  "delimiter": "tab",
+  "header_rows": 1,
+  "columns": [
+    "exported_time_s",
+    "velocity_mm_s"
+  ],
+  "sampling_rate_hz": null,
+  "processing_status": "As supplied; prior instrument/export processing is not established.",
+  "label_provenance": "Owner confirmed: numeric suffix is speed in km/h; 空车=no added ballast; 有车=added ballast. Distance follows manuscript field setup.",
+  "records": [
+    {
+      "id": "unballasted",
+      "path": "data/45m_40kmh_unballasted.txt",
+      "source_filename": "45m-空车-40.txt",
+      "condition": "unballasted",
+      "condition_original": "空车",
+      "distance_m": 45,
+      "speed_kmh": 40,
+      "sample_count": 18433,
+      "exported_end_time_s": 5.9,
+      "rms_velocity_mm_s": 0.1680238546779552,
+      "sha256": "42aec088527012330e7cf3c99b772888a6bfbd66f191b460e745d2694545aacd"
+    },
+    {
+      "id": "ballasted",
+      "path": "data/45m_40kmh_ballasted.txt",
+      "source_filename": "45m-有车-40.txt",
+      "condition": "ballasted",
+      "condition_original": "有车",
+      "distance_m": 45,
+      "speed_kmh": 40,
+      "sample_count": 20616,
+      "exported_end_time_s": 6.6,
+      "rms_velocity_mm_s": 0.2244454564975441,
+      "sha256": "8ea1ee1db4e0ec9d5d3066656b3868b6204c259d645753b1becd55dafd194d9f"
+    }
+  ]
+}

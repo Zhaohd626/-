@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340">
+<rect width="1280" height="340" rx="20" fill="#102632"/>
+<path d="M790 0V340 M870 0V340 M950 0V340 M1030 0V340 M1110 0V340 M1190 0V340 M760 60H1280 M760 140H1280 M760 220H1280 M760 300H1280" stroke="#29414c" opacity=".55"/>
+<rect x="64" y="50" width="7" height="25" fill="#50d6bf"/>
+<text x="87" y="70" font-family="Arial,sans-serif" font-size="18" letter-spacing="3" fill="#9ab6c1">FIELD SIGNAL SAMPLES</text>
+<text x="60" y="161" font-family="Arial,sans-serif" font-size="76" font-weight="700" fill="#f3f8fa">RLDV</text>
+<text x="64" y="208" font-family="Arial,sans-serif" font-size="23" fill="#c1d2d9">Remote laser Doppler vibrometry</text>
+<text x="64" y="278" font-family="Arial,sans-serif" font-size="17" fill="#50d6bf">02 RECORDS  /  45 m  /  40 km/h</text>
+<path d="M790 238L1230 238L1230 254L790 254Z" fill="#52646c"/>
+<path d="M800 225L1200 225" stroke="#aec3ca" stroke-width="2" stroke-dasharray="18 13"/>
+<rect x="1056" y="158" width="104" height="48" rx="4" fill="#4bb7a5"/><path d="M1164 172H1200L1220 191V206H1164Z" fill="#8bddd0"/>
+<circle cx="1082" cy="210" r="12" fill="#102632" stroke="#c1d2d9" stroke-width="4"/><circle cx="1188" cy="210" r="12" fill="#102632" stroke="#c1d2d9" stroke-width="4"/>
+<rect x="816" y="108" width="51" height="29" rx="4" fill="#c1d2d9"/><path d="M840 137L817 193M840 137L862 193" stroke="#c1d2d9" stroke-width="4"/>
+<path d="M867 123L1031 224" stroke="#50d6bf" stroke-width="2"/><circle cx="1031" cy="224" r="5" fill="#50d6bf"/>
+<text x="840" y="293" font-family="Arial,sans-serif" font-size="13" fill="#9ab6c1">ILLUSTRATIVE FIELD SCHEMATIC · NOT TO SCALE</text>
+</svg>

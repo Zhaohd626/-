@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="260" viewBox="0 0 1120 260">
+  <rect width="1120" height="260" rx="18" fill="#f3f7fa"/>
+  <g font-family="Arial, sans-serif" fill="#173d51">
+    <text x="56" y="48" font-size="17" letter-spacing="2">SPACE–GROUND SENSING</text>
+    <text x="56" y="81" font-size="14" fill="#577180">Data interfaces · Signal examples · Visualization</text>
+    <g transform="translate(95 126) rotate(-18)">
+      <rect x="-38" y="-10" width="26" height="30" fill="#b9d9e9" stroke="#2d6c89"/>
+      <rect x="12" y="-10" width="26" height="30" fill="#b9d9e9" stroke="#2d6c89"/>
+      <rect x="-10" y="-14" width="20" height="40" rx="3" fill="#3f829c"/>
+    </g>
+    <path d="M135 132 L440 182" stroke="#a8c3d2" stroke-width="2" stroke-dasharray="6 6"/>
+    <path d="M107 147 L394 205" stroke="#a8c3d2" stroke-width="2" stroke-dasharray="6 6"/>
+    <rect x="365" y="138" width="416" height="70" rx="3" fill="#dce6eb" stroke="#8ca8b7"/>
+    <path d="M385 173 H762" stroke="white" stroke-width="4" stroke-dasharray="18 15"/>
+    <path d="M813 184 L766 184" stroke="#d49a57" stroke-width="2"/>
+    <path d="M813 184 L797 222 M813 184 L834 222" stroke="#587687" stroke-width="3"/>
+    <rect x="796" y="161" width="34" height="24" rx="4" fill="#d49a57"/>
+    <text x="54" y="226" font-size="17">Satellite / InSAR</text>
+    <text x="442" y="115" font-size="15">Runway-like observation layout</text>
+    <text x="868" y="178" font-size="17">Ground / RLDV</text>
+    <text x="868" y="201" font-size="12" fill="#577180">Independent demonstration subsets</text>
+  </g>
+</svg>

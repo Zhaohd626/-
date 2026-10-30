@@ -1,0 +1,29 @@
+{
+  "name": "星地协同机场跑道表面性状异构感知数据集",
+  "edition": "public demonstration subset",
+  "paired_space_ground_observations": false,
+  "subsets": [
+    {
+      "id": "satellite_insar",
+      "type": "synthetic",
+      "quantity": "line-of-sight displacement",
+      "unit": "mm",
+      "path": "satellite_insar/data/sample/runway_displacement.csv",
+      "observations": 2928,
+      "points": 183,
+      "epochs": 16,
+      "sha256": "c89aa6a130dc7cf0c1d5d9f928257ed8ee91993dbad462a94b1f88eda6aecdc2"
+    },
+    {
+      "id": "ground_rldv",
+      "type": "field exports from supplied demo",
+      "quantity": "exported velocity",
+      "unit": "mm/s",
+      "path": "ground_rldv/data/manifest.json",
+      "records": 2,
+      "samples": 39049,
+      "encoding": "gb18030",
+      "sampling_rate_hz": null
+    }
+  ]
+}
