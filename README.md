@@ -21,17 +21,3 @@
 
 ![Ground vibration observations](ground_rldv/assets/signals.png)
 
-## 使用
-
-Python 3.10 或更高版本：
-
-```bash
-python -m pip install -r requirements.txt
-python run_demo.py
-```
-
-各子目录提供相应的数据说明与示例程序，统一数据索引见 [dataset_manifest.json](dataset_manifest.json)。
-
-## 发布范围
-
-本仓库为展示子集，研究所用的完整数据与核心处理方法保留。公开内容用于了解数据形式、读取接口和基础可视化流程。数据复用条款见 [使用说明](ground_rldv/README.md#reuse)。
